@@ -1,0 +1,19 @@
+{
+  "name": "test-vercel-link-remote-cache",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "turbo": "^1.4.2"
+  },
+  "engines": {
+    "node": ">=16.15.1",
+    "pnpm": ">=7.6.0"
+  }
+}
